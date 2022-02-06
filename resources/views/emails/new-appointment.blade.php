@@ -1,0 +1,1 @@
+{{ route('appointments.confirm', $appointment->id) }}
