@@ -29,8 +29,3 @@ vendor/bin/sail artisan key:generate
 ```
 vendor/bin/sail artisan test
 ```
-7. The backend should be available at
-```
-http://localhost
-```
-
